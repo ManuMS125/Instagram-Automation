@@ -1,1 +1,1 @@
-This is an automation project which is mainly based out of Instagram.!!
+This is an automation project which works on Instagram, all the activities of Instagram can be done here.
